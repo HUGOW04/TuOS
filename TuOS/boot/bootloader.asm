@@ -28,7 +28,7 @@ bsDriveNumber: 	        DB 0
 bsUnused: 	            DB 0
 bsExtBootSignature: 	DB 0x29
 bsSerialNumber:	        DD 0xa0a1a2a3
-bsVolumeLabel: 	        DB "nobotro os"
+bsVolumeLabel: 	        DB "tuos"
 bsFileSystem: 	        DB "FAT12"
 
 
